@@ -1,4 +1,5 @@
 📊 Ecommerce Sales Analysis Dashboard 
+
 A dynamic and interactive Excel dashboard designed to analyze and visualize key metrics of an e-commerce business. It provides in-depth insights into sales, profit, quantity sold, customer orders, category-wise performance, and regional sales distribution—empowering data-driven decision-making.
 
 🎯 Purpose
